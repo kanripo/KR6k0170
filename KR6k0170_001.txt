@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:48.000810
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:23
 #+TITLE: 行事鈔諸家記標目
 #+PROPERTY: CBETA_ID X44n0741
 #+PROPERTY: ID KR6k0170
