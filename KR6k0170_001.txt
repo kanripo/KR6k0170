@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:48.000810
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:23
 #+TITLE: 行事鈔諸家記標目
 #+PROPERTY: CBETA_ID X44n0741
 #+PROPERTY: ID KR6k0170
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 44, No. 741
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0170_X_001-0303b> 
 #+PROPERTY: JUAN 1
-No.741¶
-
- 行事鈔諸家記標目¶
+No. 741¶
+行事鈔諸家記標目¶
 後學　釋　戒月　改錄¶
 
   
